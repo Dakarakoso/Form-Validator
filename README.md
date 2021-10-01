@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/apple-touch-icon.png" alt="Logo" width="80" height="80">
+    <img src="./images/apple-touch-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Form-Validator</h3>
